@@ -1,1 +1,1 @@
-# A simple 1 layer perceptron for image classification
+# A simple Single Layer Perceptron for image classification
